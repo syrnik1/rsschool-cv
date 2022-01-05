@@ -1,6 +1,6 @@
-.page-header {
-    background: no-repeat left/cover url(foto11.jpg);
-    display: flex;
+.header {
+    background: rgb(8, 134, 113);
+    display: block;
     height: 120px;
     width: 100%;
     align-items: center;
@@ -9,8 +9,8 @@
 }
 
 .main {
-    background: yellow;
-    display: flex;
+    background: rgb(189, 216, 199);
+    display: block;
     height: 1000px;
     width: 100%;
     align-items: center;
@@ -19,8 +19,8 @@
 }
 
 .footer {
-    background: green;
-    display: flex;
+    background: rgb(26, 124, 95);
+    display: block;
     height: 120px;
     width: 100%;
     align-items: center;
