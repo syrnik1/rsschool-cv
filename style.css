@@ -23,15 +23,16 @@
 .main {
     background: rgb(189, 216, 199);
     display: block;
-    height: 1040px;
+    height: 1100px;
     width: 100%;    
     color: rgb(0, 0, 0);  
 }
 
-.codik {
+.cod {
     font-style: courier;    
     color: rgb(0, 0, 0);
-    line-height: 0.4;   
+    
+    margin: right;   
 }
 
 .logo {
